@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StabakSen
-- 👀 I’m interested in learning new technology and programming languages. I also make cool linden scripts for SecondLife.
+- 👀 I’m interested in react apps with java frameworks at backend. I also make cool linden scripts for SecondLife.
 - 🌱 I’m currently learning reactive programming with Spring WebFlux
-- 💞️ I’m looking to collaborate on react apps and linden scripts
+- 💞️ I’m looking for remote jobs currently
 - 📫 You can reach me on stabaksen@gmail.com
 
 <!---
